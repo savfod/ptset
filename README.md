@@ -1,6 +1,8 @@
 # ptset
 Program for point-tangent set generation for curve of function type. 
 
+![ptset example](/image_example.png)
+
 Some usage examples: 
 ```bash
 python ptset.py -h 
